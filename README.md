@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nouman047
-- 👀 I’m interested in MERN STACK || NextJS || NodeJS || Automation 
-- 🌱 I’m currently learning selenium and cypress
-- 💞️ I’m looking to collaborate on nodeJS Projects
+- 👀 I’m interested in JavaScript Developer || Automation 
+- 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me noumanzahid@hotmail.com
 
 <!---
